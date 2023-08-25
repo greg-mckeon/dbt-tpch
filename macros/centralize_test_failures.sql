@@ -1,5 +1,5 @@
 {{ config(
-    tags=["finance"]
+    tags=["finance"] test
 ) }}
 
 
